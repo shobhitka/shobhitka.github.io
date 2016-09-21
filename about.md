@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+So, at last you found me !!!!! The one and only Shobhit. May you feel a state of complete nirvana on having found me :)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Well, I am just an ordinary guy currently based in Bangalore. I love listening to oldies from Kishore and Lata, play badminton sometimes and love working on Linux Kernel and Systems.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Just converted my site into Jekyll based blog. Wait for some more time to get it fully organized. Come back soon.

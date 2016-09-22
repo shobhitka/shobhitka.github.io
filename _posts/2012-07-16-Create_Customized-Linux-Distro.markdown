@@ -126,9 +126,4 @@ apt-get install xfce4
 
 Now we have a bare minimum Linux system (Under 1 GB). We can fine tune what packages we want like firefox(browser), thunderbird (e-mail client), vlc(media player) etc avoiding all the clutter that all of the latest distros install by default. I got my desired system in less than 1.5Gb booting in around 10s.
 
-<a href="https://twitter.com/share?
-	text={{ page.title }}
-	&url={{ page.shorturl }}
-	&via=shobhit_arora">
-	<img alt="Twitter" src="https://raw.githubusercontent.com/shobhitka/shobhitka.github.io/master/assets/img/Twitter_Logo_Blue.png" height="42" width="42">
-</a>
+{% include share.html %}

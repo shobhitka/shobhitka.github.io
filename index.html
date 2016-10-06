@@ -17,6 +17,10 @@ layout: default
     {% endfor %}
   </ul>
 
+	{% include share.html %}
+
+	{% include tag_index.html %}
+
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

@@ -2,7 +2,8 @@
 layout: post
 title:  "Create Customized Linux Distro"
 date:   2012-07-16 15:46:17 +0530
-categories: Linux
+tags:
+- Linux
 ---
 I own a HP Mini210 with Intel Pineview processor and all of the latest and greatest Linux distro sucks on this one. And those Win guys who may be reading this, don't ever mention to me on trying Win 7 on this one, though it came with home basic by default, that goes against my morals to have such a thing like Windows on my machine less even talk about it.
 

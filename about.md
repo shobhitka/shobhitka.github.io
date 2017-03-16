@@ -32,4 +32,4 @@ I also like to play with various distributions and creating customezed distros f
 
 # Legal Disclaimer
 
-All opinions expressed in this site are mine alone and do not imply opinions by Intel Corporation or any of its subsidaries. All the content shared on this site is governed by [Creative Commons Attribution-ShareAlike 4.0 Internation License](https://creativecommons.org/licenses/by-sa/4.0/)
+All opinions expressed in this site are mine alone and do not imply opinions by Intel Corporation or any of its subsidaries. All the content shared on this site is governed by [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)

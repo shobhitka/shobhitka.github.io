@@ -23,3 +23,5 @@ gem "github-pages", group: :jekyll_plugins
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 gem 'lanyon'
+
+gem 'json', github: 'flori/json', branch: 'v1.8'

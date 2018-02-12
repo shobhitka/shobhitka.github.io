@@ -18,3 +18,7 @@ permalink: /tags/
 	</ul>
 {% endfor %}
 </section>
+
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}

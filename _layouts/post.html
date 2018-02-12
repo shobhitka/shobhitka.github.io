@@ -35,4 +35,8 @@ layout: default
 
 
 	{% endif %}
+
+	{% if jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
 </div>

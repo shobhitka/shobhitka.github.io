@@ -24,6 +24,10 @@ layout: default
 
 	{% include tag_index.html %}
 
+	{% if jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
+
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

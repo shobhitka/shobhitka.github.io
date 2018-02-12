@@ -2,6 +2,7 @@
 layout: post
 title:  "Create Customized Linux Distro"
 date:   2012-07-16 15:46:17 +0530
+comments: true
 tags:
 - Linux
 ---

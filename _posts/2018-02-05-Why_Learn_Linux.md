@@ -7,7 +7,7 @@ tags:
 - Linux
 ---
 <p style='text-align: justify;'>
-After been working in Linux for last 20 years I thought none in today's technology oriented market would be untouched by Linux in someway or the other. With companies embracing open soure technologies with wide open arms and making huge investments in open source development Linux has become the poster child for all tech companies. 
+After been working in Linux for so long, I thought none in today's technology oriented market would be untouched by Linux in someway or the other. With companies embracing open soure technologies with wide open arms and making huge investments in open source development Linux has become the poster child for all tech companies. 
 
 So it was a surprise for me when I recently visited one of the prestigeous collge in Bangalore and found that Linux usage is negligible or very limited. Brief interaction with the students confirmed my reasons for the same. Today all technologies we have especially cloud oreinted are cross platform and easily work on other systems like Windows or MAC OSX. Then what is the need for Linux. I thought it was time to pen down my thoughts on why we need to learn Linux and what is its importance in todays world.
 
@@ -34,7 +34,7 @@ The main reasons can be listed as below -
 
 
 1. Highly Flexible and Scalable
-	* Being used in small smartwatches to hughe media transcose servers today
+	* Being used in small smartwatches to huge media transcode servers today
 	* Fit for simple home usage to complex and huge Data centers
 	* Highly scalable distributed computing architecture and software availability
 	* Freedom to customize as per your business needs
@@ -55,7 +55,7 @@ The main reasons can be listed as below -
 6. And of course its Free
 
 <p style='text-align: justify;'>
-Today open source and Linux has become so pervasive that companies working in Big data, Cloud computing, Databases, Machine Learning, etc. all  use one or the other variant of Linux OS and rely heavily on the Development Tools from the Linux/Open Souuce echo system. All open source tools are developed for Linux first and then made available on other platforms. For exampple Apache Web Server which drives more that 70% of the web servers in the market was first developed for Linux. And there is no doubt that we should always develop in the same environemnt as where we would deploy our production solutions.
+Today open source and Linux has become so pervasive that companies working in Big Data, Cloud Computing, Databases, Machine Learning, etc. all  use one or the other variant of Linux OS and rely heavily on the Development Tools from the Linux/Open Source eco-system. All open source tools are developed for Linux first and then made available on other platforms. For example Apache Web Server which drives more that 70% of the web servers in the market was first developed for Linux. And there is no doubt that we should always develop in the same environment as where we would deploy our production solutions.
 
 Further to underline the importnace of Linux and Open Source in the industry, if we look at how companies are engaging with open source we find that - 
 </p>
@@ -89,4 +89,11 @@ Industry is looking to hire Linux talent and honing ones' skills at college leve
 So I would encourage every body who had read this far to embark on their journey of learning and take it up as a challenge which you are willing to accept and unwilling to postpone and determined to win.
 </p>
 
-<font size="2">Note: All references has been taken from The Linux Foundation reports on Kernel Dev and Job Market in Open Source 2017</font>
+<p style='text-align: justify;'>
+<font size="2">
+Note: <br>
+1. All references has been taken from The Linux Foundation reports on Kernel Dev and Job Market in Open Source 2017<br>
+
+2. This is first part of the series on exlaining why we need to dive into Linux. Please stay tuned for upcomming short tutorials on setting up and starting learning on Linux. Please put in your interest in comments below and topics you would like to learn.
+</font>
+</p>

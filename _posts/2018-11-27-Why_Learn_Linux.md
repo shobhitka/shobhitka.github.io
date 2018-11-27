@@ -1,15 +1,19 @@
 ---
 layout: post
 title:  "Linux & Opensource - Should we tame the beast ?"
-date:   2018-02-05
+date:   2018-11-27
 comments: true
 tags:
 - Linux
 ---
 <p style='text-align: justify;'>
 After been working in Linux for so long, I thought none in today's technology oriented market would be untouched by Linux in someway or the other. With companies embracing open soure technologies with wide open arms and making huge investments in open source development Linux has become the poster child for all tech companies. 
-
-So it was a surprise for me when I recently visited one of the prestigeous collge in Bangalore and found that Linux usage is negligible or very limited. Brief interaction with the students confirmed my reasons for the same. Today all technologies we have especially cloud oreinted are cross platform and easily work on other systems like Windows or MAC OSX. Then what is the need for Linux. I thought it was time to pen down my thoughts on why we need to learn Linux and what is its importance in todays world.
+</p>
+<p>
+Interesting read: <a href="https://www.toptal.com/linux/celebrating-25-years-of-linux">Celebrating 25 Years of Linux Kernel Development]</a>
+</p>
+<p>
+So it was a surprise for me when I recently visited one of the prestigeous collge for a Linux workshop and found that Linux usage is negligible or very limited. Brief interaction with the students confirmed my reasons for the same. Today all technologies we have especially cloud oreinted are cross platform and easily work on other systems like Windows or MAC OSX. Then what is the need for Linux. I thought it was time to pen down my thoughts on why we need to learn Linux and what is its importance in todays world.
 
 Let me just start by giving some data on what kind of companies are focussing on Linux and Opensource in general -
 </p>

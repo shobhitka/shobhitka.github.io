@@ -15,11 +15,15 @@ Guiding principle -
 
 > Whether you think you can, or think you can't, you're probably right. -- <cite>Henry Ford</cite>
 
-# Linux
+# Work Profile
 
-I have been using Linux since 1997 by way of various Red Hat distros comming in computer magazine CDs to Debian, Ubuntu and more recently Fedora. I have been a Linux systems engineer ever since and have enjoyed every bit of the journey. Using Open source technologies give me satisfaction of participating in an open community. Currently I am working in Intel's Open Source Technology Center (OTC) in Bangalore, India. Have major focus on Intel's Gen graphics driver in kernel (i915) and Android Systems. One of the major contribution has been MIPI DSI support along with other [contributions in i915 kernel driver](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs%2Ftags%2Fv4.8&qt=grep&q=Shobhit+Kumar) as author, reviewer and tester.
+I have been using Linux since 1997 by way of various Red Hat distros comming in computer magazine CDs to Debian, Ubuntu and more recently Fedora. I have been a Linux systems engineer ever since and have enjoyed every bit of the journey. Using Open source technologies give me satisfaction of participating in an open community. 
 
-Recently I have started contributing to the [android-ia](https://github.com/android-ia) open source Android project from Intel as primary author/maintainer for the [bootable live installer](https://github.com/android-ia/bootable-live-installer).
+I have worked in Intel's Open Source Technology Center (OTC) in Bangalore, India where I had major focus on Intel's Gen graphics driver in kernel (i915) and Android Systems. One of the major contribution has been MIPI DSI support along with other [contributions in i915 kernel driver](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs%2Ftags%2Fv4.8&qt=grep&q=Shobhit+Kumar) as author, reviewer and tester.
+
+I also contributed to the [android-ia](https://github.com/android-ia) open source Android project from Intel as primary author/maintainer for the [bootable live installer](https://github.com/android-ia/bootable-live-installer).
+
+Currently I am working in Amazon India with major focus on Alexa Devices.
 
 I also like to play with various distributions and creating customezed distros for self and fine tuning the boot process.
 
@@ -32,7 +36,7 @@ I also like to play with various distributions and creating customezed distros f
 
 # Legal Disclaimer
 
-All opinions expressed in this site are mine alone and do not imply opinions by Intel Corporation or any of its subsidaries. All the content shared on this site is governed by [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+All opinions expressed in this site are mine alone and do not imply opinions by Amazon or any of its subsidaries. All the content shared on this site is governed by [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 {% if jekyll.environment == 'production' %}
 {% include analytics.html %}

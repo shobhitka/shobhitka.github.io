@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="http://www.shobhit.info/assets/img/me.jpg" alt="Shobhit Kumar" height="235" width="250"/>
+<img src="https://www.shobhit.info/assets/img/me.jpg" alt="Shobhit Kumar" height="235" width="250"/>
 
 # Random Facts about me
 
